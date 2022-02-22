@@ -309,7 +309,7 @@ function createMatchScoreCardPDF(TfoName,homeTeam,match) {
 
         let pr2Save = pdfdoc.save();
         pr2Save.then(function(newBytes){
-            if(fs.existsSync(matchfileName + ".pdf" ==true)){
+            if(fs.existsSync(matchfileName + ".pdf") ==true){
                 fs.writeFileSync(matchfileName + "1.pdf",newBytes);
             }else{
                 fs.writeFileSync(matchfileName + ".pdf",newBytes);
