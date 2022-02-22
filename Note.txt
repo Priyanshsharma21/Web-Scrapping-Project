@@ -1,0 +1,62 @@
+
+
+
+!----------------------------------------------When you dont know stuff create stuff----------------------------------------------
+
+
+1. Read data from source -> Cricinfo (axios).
+2. Process data and get all teams (jsdom).
+3. write data in excel file (excel4node).
+4. Create folder (fs).
+5. create pdf (pdf-lib).
+
+
+npm init 
+
+
+
+
+
+
+npm install minimist
+
+To get data from console 
+
+
+
+
+
+
+
+
+npm install axios
+
+To get html from browser
+
+
+
+
+
+
+
+npm install jsdom
+
+To get data from dom
+we need :-
+Team1 name
+Team1 Score
+Team2 name
+Team2 score
+Result
+
+
+
+
+
+
+
+
+
+
+npm install excel4node
+npm install pdf-lib

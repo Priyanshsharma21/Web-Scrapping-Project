@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\HTML"
+		},
+		{
+			"path": "..\\OneDrive\\Desktop\\WeatherProject"
+		},
+		{
+			"path": "..\\OneDrive\\Desktop\\Calculator"
+		},
+		{
+			"path": "..\\OneDrive\\Desktop\\Newsletter-Signup"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HTML"
+	}
+}

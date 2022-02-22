@@ -1,0 +1,18 @@
+{
+  "name": "cricinfo",
+  "version": "1.0.0",
+  "description": "Cricinfo web scrapping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Priyansh Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "excel4node": "^1.7.2",
+    "jsdom": "^19.0.0",
+    "minimist": "^1.2.5",
+    "pdf-lib": "^1.17.1"
+  }
+}
